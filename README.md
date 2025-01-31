@@ -59,6 +59,7 @@ _"First solve the problem, then write the code. Then optimize it. True craftsman
 ## 📬 Let's Connect
 
 [![linkedin](<https://img.shields.io/badge/LinkedIn%20(abderrahim%20(moum)%20bouzidi)-3178C6?style=for-the-badge>)](www.linkedin.com/in/abderrahim-bouzidi-310724195 "Abderrahim Bouzidi")
-[![gmail](<https://img.shields.io/badge/LinkedIn%20(mbouzidi63@gmail.com)-3178C6?style=for-the-badge>)](mailto:mbouzidi63@gmail.com "mbouzidi63@gmail.com")
+
+[![gmail](<https://img.shields.io/badge/LinkedIn%20(mbouzidi63@gmail.com)-c71610?style=for-the-badge>)](mailto:mbouzidi63@gmail.com "mbouzidi63@gmail.com")
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=moumbou%2Fportfolio&label=Profile%20Views&countColor=%23263759)](https://visitorbadge.io/status?path=moumbou%2Fportfolio)
