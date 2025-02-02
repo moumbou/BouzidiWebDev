@@ -38,12 +38,13 @@ With **6+ years** of experience in full-stack development, I specialize in trans
 ## 🧠 Development Philosophy
 
 _"First solve the problem, then write the code. Then optimize it. True craftsmanship lies in creating solutions that evolve gracefully with requirements."_
-`while(true) {
-  const challenge = findProblem();
-  const solution = architectSolution(challenge);
-  if (solution.perfect) brewCoffee();
-  else refactor();
-}`
+
+`while(true) {`
+`const challenge = findProblem();`
+`const solution = architectSolution(challenge);`
+`if (solution.perfect) brewCoffee();`
+`else refactor();`
+`}`
 
 ---
 
