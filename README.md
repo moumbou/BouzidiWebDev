@@ -68,4 +68,4 @@ _"First solve the problem, then write the code. Then optimize it. True craftsman
 
 📧 Email: <a href="mailto:mbouzidi63@gmail.com">mbouzidi63@gmail.com</a>
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=moumbou%2Fportfolio&label=Profile%20Views&countColor=%23263759)](https://visitorbadge.io/status?path=moumbou%2Fportfolio)
+<!-- [![Visitors](https://api.visitorbadge.io/api/visitors?path=moumbou%2Fportfolio&label=Profile%20Views&countColor=%23263759)](https://visitorbadge.io/status?path=moumbou%2Fportfolio) -->
